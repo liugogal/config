@@ -8,7 +8,7 @@ spring:
           uri: https://github.com/liugogal/configs.git
           username: liugogal
           password: gogalggoo
-          basedir: /Users/mac/Desktop/MyWork/projects-cloud/config/basePath
+          basedir: ./basePath
 eureka:
   client:
     service-url:
