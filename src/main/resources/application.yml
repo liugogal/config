@@ -7,7 +7,7 @@ spring:
         git:
           uri: https://github.com/liugogal/configs.git
           username: liugogal
-          password: gogalggoo
+          password: gogalggoo1030
           basedir: ./basePath
 eureka:
   client:
